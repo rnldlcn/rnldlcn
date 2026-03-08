@@ -41,4 +41,4 @@
 - **The Architecture:** Engineered a robust RESTful API backend to handle secure client data and product inventory, integrated with a dynamic, responsive React frontend. 
 - **Status:** Actively in development for a live client Capstone project.
 
-[View Source Code]([LINK_TO_YOUR_REPO](https://github.com/rnldlcn/pos-backend)) | [View Live Demo](LINK_TO_DEMO_IF_AVAILABLE)
+[View Source Code](https://github.com/rnldlcn/pos-backend) | [View Live Demo](LINK_TO_DEMO_IF_AVAILABLE)
