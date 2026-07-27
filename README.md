@@ -1,4 +1,5 @@
 ## Aspiring Software Engineer | IT Undergrad 
+
 **Frontend Architecture:**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -22,23 +23,21 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### 🚀 Current Learning Path
+
+<p align="left">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/658cdd21ae22c12523e7222b?variant=dark&roadmaps=%2Cjavascript%2Cfrontend%2Chtml" alt="roadmap.sh" />
+  </a>
+</p>
+
 ### Connect with me
 
 <p align="left">
   <a href="mailto:ronieldelicana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https:https://www.linkedin.com/in/roniel-delicana-58a23037b/">
+  <a href="https://www.linkedin.com/in/roniel-delicana-58a23037b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-###  Featured Project
-
-**[Franco's Perfume Management System]([LINK_TO_YOUR_REPO](https://github.com/rnldlcn/pos-backend))** *A full-stack, enterprise-level inventory and client management application.*
-
-- **The Stack:** React.js, Java Spring Boot, PostgreSQL
-- **The Architecture:** Engineered a robust RESTful API backend to handle secure client data and product inventory, integrated with a dynamic, responsive React frontend. 
-- **Status:** Actively in development for a live client Capstone project.
-
-[View Source Code](https://github.com/rnldlcn/pos-backend) | [View Live Demo](LINK_TO_DEMO_IF_AVAILABLE)
