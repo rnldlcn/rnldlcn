@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/658cdd21ae22c12523e7222b?variant=dark&roadmaps=%2Cjavascript%2Cfrontend%2Chtml" alt="roadmap.sh" />
+    <img src="https://roadmap.sh/card/wide/658cdd21ae22c12523e7222b?variant=dark&roadmaps=%2Cfrontend%2Chtml%2Creact" alt="roadmap.sh" />
   </a>
 </p>
 
