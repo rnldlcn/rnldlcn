@@ -51,4 +51,4 @@
 </p>
 
 ### Github stats
-[![Roniel's GitHub stats](https://github-stats-extended.vercel.app/api?rnldlcn=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Roniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=rnldlcn)](https://github.com/stats-organization/github-stats-extended)
