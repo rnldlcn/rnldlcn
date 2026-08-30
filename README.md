@@ -1,8 +1,4 @@
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&repeat=false&width=450&lines=Aspiring+Software+Engineer+%7C+IT+Undergrad" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&repeat=false&width=650&lines=Aspiring+Software+Engineer+%7C+IT+Undergrad)](https://git.io/typing-svg)
 
 **Frontend Architecture:**
 <p align="left">
