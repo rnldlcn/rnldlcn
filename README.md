@@ -41,12 +41,6 @@
   </a>
 </p>
 
-###  Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
 ### What I listen to
 
 <p align="left">
