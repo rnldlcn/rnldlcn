@@ -52,3 +52,8 @@
 
 ### Github stats
 [![Roniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=rnldlcn)](https://github.com/stats-organization/github-stats-extended)
+
+### 💻 Recently Used Languages 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" />
+</p>
