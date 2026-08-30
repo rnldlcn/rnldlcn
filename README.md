@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-###  Current Learning Path
+### Current Learning Path
 
 <p align="left">
   <a href="https://roadmap.sh">
@@ -31,15 +31,22 @@
   </a>
 </p>
 
-### Featured Repository
-
 <p align="left">
   <a href="https://github.com/rnldlcn/roadmap.sh-frontend-projects">
-    <img src="https://img.shields.io/badge/Roadmap.sh-Frontend_Projects-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap.sh Frontend Projects Repository" />
+    <img src="https://img.shields.io/badge/Featured_Repository:-Roadmap.sh_Frontend_Projects-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap.sh Frontend Projects Repository" />
   </a>
 </p>
 
-### Connect with me
+### What I'm currently using
+
+<p align="left">
+  <a href="https://github.com/rnldlcn">
+    <img src="https://github-stats-extended.vercel.app/api?username=rnldlcn&theme=dark" alt="GitHub stats" height="195" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" height="195" />
+</p>
+
+### Connect
 
 <p align="left">
   <a href="mailto:ronieldelicana@gmail.com">
@@ -48,12 +55,4 @@
   <a href="https://www.linkedin.com/in/roniel-delicana-58a23037b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-### Github stats
-[![Roniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=rnldlcn)](https://github.com/stats-organization/github-stats-extended)
-
-### 💻 Recently Used Languages 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" />
 </p>
