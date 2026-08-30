@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&repeat=false&width=450&lines=Aspiring+Software+Engineer+%7C+IT+Undergrad)](https://git.io/typing-svg)
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&repeat=false&width=450&lines=Aspiring+Software+Engineer+%7C+IT+Undergrad" alt="Typing SVG" />
+  </a>
+</p>
 
 **Frontend Architecture:**
 <p align="left">
@@ -23,7 +27,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Current Learning Path
+###  Current Learning Path 
 
 <p align="left">
   <a href="https://roadmap.sh">
@@ -37,16 +41,21 @@
   </a>
 </p>
 
-### What I'm currently using
+###  Stats
 
 <p align="left">
-  <a href="https://github.com/rnldlcn">
-    <img src="https://github-stats-extended.vercel.app/api?username=rnldlcn&theme=dark" alt="GitHub stats" height="195" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldlcn&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### Connect
+### What I listen to
+
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=82kajv5p7zkq4uikg1egtgfd6&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
+  </a>
+</p>
+
+###  Connect
 
 <p align="left">
   <a href="mailto:ronieldelicana@gmail.com">
