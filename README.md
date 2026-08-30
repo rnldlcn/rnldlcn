@@ -1,4 +1,4 @@
-## Aspiring Software Engineer | IT Undergrad 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&repeat=false&width=435&lines=Aspiring+Software+Engineer+%7C+IT+Undergrad)](https://git.io/typing-svg)
 
 **Frontend Architecture:**
 <p align="left">
