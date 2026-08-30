@@ -23,11 +23,19 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🚀 Current Learning Path
+###  Current Learning Path
 
 <p align="left">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/wide/658cdd21ae22c12523e7222b?variant=dark&roadmaps=%2Cfrontend%2Chtml%2Creact" alt="roadmap.sh" />
+  </a>
+</p>
+
+### Featured Repository
+
+<p align="left">
+  <a href="https://github.com/rnldlcn/roadmap.sh-frontend-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnldlcn&repo=roadmap.sh-frontend-projects&theme=radical" alt="Roadmap.sh Frontend Projects Repository" />
   </a>
 </p>
 
