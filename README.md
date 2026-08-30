@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://github.com/rnldlcn/roadmap.sh-frontend-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnldlcn&repo=roadmap.sh-frontend-projects&theme=radical" alt="Roadmap.sh Frontend Projects Repository" />
+    <img src="https://img.shields.io/badge/Roadmap.sh-Frontend_Projects-1e1e1e?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap.sh Frontend Projects Repository" />
   </a>
 </p>
 
